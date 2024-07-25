@@ -1,0 +1,4 @@
+github.com/Rabish1979/go-ds/ds v0.0.0-20240725135614-e5b5c4b45288 h1:WtrAQRs/dJNaocQ/tFkPI8CCJsp0ODqqlH+66XgrzAM=
+github.com/Rabish1979/go-ds/ds v0.0.0-20240725135614-e5b5c4b45288/go.mod h1:ZMJEBLinZNvNl733W34u39z4PWuPdEEn5NGxYvbv61U=
+golang.org/x/example/hello v0.0.0-20240716161537-39e772fc2670 h1:HLz1bLmabrNKLWKNuWfNNJK+vMnBF2WGY0dLWYQQL5E=
+golang.org/x/example/hello v0.0.0-20240716161537-39e772fc2670/go.mod h1:UhUKOXx5fMcLZxwL20DUrWWBBoRYG9Jvc8FiwZhRHCI=

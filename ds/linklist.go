@@ -13,6 +13,10 @@ type LinkList struct {
 	head *Node
 }
 
+func createLinkList() *LinkList {
+	return &LinkList{}
+}
+
 func (list *LinkList) insertAtFront(data int32) {
 	if list.head == nil {
 		newNode := &Node{data: data, next: nil}
