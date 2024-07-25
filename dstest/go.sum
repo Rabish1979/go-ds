@@ -1,2 +1,4 @@
+github.com/Rabish1979/go-ds/linklist v0.0.0-20240725145852-3bf969b295f3 h1:cCuALsdiU0Nk20qoTV/g3k+ulo3gAdADIIR3lQw6nnI=
+github.com/Rabish1979/go-ds/linklist v0.0.0-20240725145852-3bf969b295f3/go.mod h1:unE71GVrJAXabxWw87SEufPXklinoqsQobsG5Wlvk1M=
 golang.org/x/example/hello v0.0.0-20240716161537-39e772fc2670 h1:HLz1bLmabrNKLWKNuWfNNJK+vMnBF2WGY0dLWYQQL5E=
 golang.org/x/example/hello v0.0.0-20240716161537-39e772fc2670/go.mod h1:UhUKOXx5fMcLZxwL20DUrWWBBoRYG9Jvc8FiwZhRHCI=
