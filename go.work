@@ -1,7 +1,7 @@
 go 1.21.3
 
 use (
-	./ds
+	./linklist
 	./dstest
 	./example/hello
 )
